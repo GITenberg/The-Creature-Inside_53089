@@ -1,0 +1,37 @@
+_repo: The-Creature-Inside_53089
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+creator:
+  author:
+    agent_name: Sharkey, Jack
+    alias: Sharkey, John Michael
+    birthdate: 1931
+    deathdate: 1992
+    gutenberg_agent_id: '32269'
+    url: http://www.gutenberg.org/2009/agents/32269
+description: ''
+gutenberg_issued: '2016-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Norcriss, Jerry (Fictitious character) -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Creature Inside
+url: http://www.gutenberg.org/ebooks/53089
